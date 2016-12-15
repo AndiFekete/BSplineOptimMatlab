@@ -1,0 +1,6 @@
+ECGKnotRed119: 5419.514439 seconds
+ECGKnotRed117: 6503.424220 seconds
+ECGNelder119: 1057.348440 seconds
+ECGNelder117: 1049.751759 seconds
+ECGVarPro119: 1651.268459 seconds
+ECGVarPro117: 1677.592794 seconds

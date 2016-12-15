@@ -1,0 +1,3 @@
+SyntKnotRed : 5705.801170 seconds
+SyntNelder  : 855.461365 seconds
+SyntVarPro  : 1103.204113 seconds

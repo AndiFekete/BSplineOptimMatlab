@@ -1,0 +1,5 @@
+ECGTest_Rand_Eq
+ECGNelder119: 895.2513 seconds
+ECGNelder117: 846.9960 seconds
+ECGVarPro119: 1563.935394 seconds
+ECGVarPro117: 1512.801643 seconds
